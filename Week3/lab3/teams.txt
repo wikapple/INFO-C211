@@ -1,0 +1,31 @@
+IUS
+New Albany
+4
+Bellarmine
+Louisville
+6
+UofL
+Louisville
+5
+UK
+Lexington
+8
+IU
+Bloomington
+6
+Ivy Tech
+Sellersburg
+2
+WKU
+Bowling Green
+7
+Hanover College
+Hanover
+7
+USI
+Evansville
+4
+UE
+Evansville
+9
+
