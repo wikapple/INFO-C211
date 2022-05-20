@@ -1,5 +1,5 @@
 # INFO-C211
-- Second of two part course in Java Programming
-- Taken Spring 2022
-- Indiana University Southeast
- 
+Indiana University Southeast
+Spring 2022
+
+*Class two of two covering Java programming.
